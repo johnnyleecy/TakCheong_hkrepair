@@ -14,7 +14,7 @@ export const REPAIR_SITE = {
   addressRegion: "九龍",
   country: "HK",
   areaServed: "香港（九龍、新界、港島）",
-  url: "https://takcheong.hk",
+  url: "https://redsea.fit",
 };
 
 export const whatsappLink = (message?: string) =>

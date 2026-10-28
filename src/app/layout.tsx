@@ -9,6 +9,9 @@ const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"]
 export const metadata: Metadata = {
   title: "德昌五金",
   description: "專業家居及商業維修服務",
+  other: {
+    "google-site-verification": "kuecXHa_x_2cyZrdcpI2vIvci0sRCTnZ-1SHs22o-1w",
+  },
 };
 
 export default function RootLayout({
